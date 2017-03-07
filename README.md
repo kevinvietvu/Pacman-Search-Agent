@@ -1,1 +1,1 @@
-# Implemented BFS,DFS,UCS and A* Algorithms for Pacman game.
+# Implemented BFS, DFS, UCS and A* Algorithms for Pacman game.
