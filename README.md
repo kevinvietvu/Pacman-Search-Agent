@@ -1,1 +1,1 @@
-# Pacman-Search-Agent
+# Implementing BFS,DFS,UCS and A Star Algorithms for Pacman game.
